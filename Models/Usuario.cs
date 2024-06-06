@@ -8,5 +8,6 @@
         public string Description { get; set; }
         public string Apellido { get; set; }
         public string Contraseña { get; set; }
+        public string Telefono { get; set; }
     }
 }
