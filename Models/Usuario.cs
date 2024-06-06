@@ -7,5 +7,6 @@
         public string Title { get; set; }
         public string Description { get; set; }
         public string Apellido { get; set; }
+        public string Contraseña { get; set; }
     }
 }
